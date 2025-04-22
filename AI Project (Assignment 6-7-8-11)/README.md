@@ -6,7 +6,7 @@ Musical genres are essential for organizing songs into musical collections and p
 
 </br>
 <p align="center">
-  <img src="./evaluation/naive_bayes_bernoulli.png" width="650">
+  <img src="C:\Users\PAWAN HETE\Downloads\naive_bayes_bernoulli.png" width="650">
 </p>
 <p align="center">
   <em>Confusion Matrix using Naive Bayes</em>
@@ -14,7 +14,7 @@ Musical genres are essential for organizing songs into musical collections and p
 
 
 <p align="center">
-  <img src="./evaluation/plot_macro-f1.png" width="650">
+  <img src="C:\Users\PAWAN HETE\Downloads\plot_macro-f1.png" width="650">
 </p>
 <p align="center">
   <em>Macro-averaged F1 score performances per considered generes </em>
